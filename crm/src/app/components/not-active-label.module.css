@@ -1,0 +1,9 @@
+.label{
+    width: 83px;
+    height: 28px;
+    padding: 4px 14px;
+    gap: 8px;
+    border-radius: 28px;
+    background-color: rgba(254, 226, 226, 1);
+    color: rgba(185, 28, 28, 1);
+}
